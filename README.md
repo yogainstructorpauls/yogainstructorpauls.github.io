@@ -22,6 +22,7 @@
             padding: 40px;
         }
         footer {
+            max-width: 1000px;
             background: #333;
             color: white;
             padding: 10px;
