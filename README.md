@@ -29,8 +29,11 @@
             background: #333;
             color: white;
             padding: 10px;
-            width: 100vw;
+            width: 100%;
             text-align: center;
+            position: relative;
+            left: 0;
+            right: 0;
         }
     </style>
 </head>
