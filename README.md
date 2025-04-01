@@ -31,9 +31,9 @@
             padding: 10px;
             width: 100%;
             text-align: center;
-            position: relative;
+            position: absolute;
+            bottom: 0;
             left: 0;
-            right: 0;
         }
     </style>
 </head>
