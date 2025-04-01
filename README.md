@@ -11,6 +11,9 @@
             padding: 0;
             text-align: center;
             background-color: #f4f4f4;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
         }
         header {
             background: #333;
@@ -19,16 +22,15 @@
             font-size: 24px;
         }
         section {
+            flex: 1;
             padding: 40px;
         }
         footer {
-            max-width: 1000px;
             background: #333;
             color: white;
             padding: 10px;
-            position: absolute;
-            bottom: 0;
             width: 100%;
+            text-align: center;
         }
     </style>
 </head>
